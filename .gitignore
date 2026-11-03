@@ -1,0 +1,17 @@
+# Données : trop volumineuses pour GitHub (à télécharger sur Kaggle, voir README)
+*.csv
+
+# Fichiers temporaires de Jupyter et Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
